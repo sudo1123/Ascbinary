@@ -1,0 +1,14 @@
+{
+    "EN":{
+        "mode_selection":"Please select mode (1 for ASCII to binary, 2 for binary to ASCII):",
+        "ascii_binary_input":"Please enter the ASCII text to be converted:",
+        "binary_ascii_input":"Please enter the binary code to be converted (8 digits per group, separated by spaces):",
+        "output":"The conversion result is:"
+    },
+    "CN":{
+        "mode_selection":"请选择模式（1代表ASCII字符转二进制,2代表二进制转ASCII字符）:",
+        "ascii_binary_input":"请输入待转换的ASCII字符文本:",
+        "binary_ascii_input":"请输入待转换的二进制码(8数字为一组，组之间以空格分割):",
+        "output":"转换结果为:"
+    }
+}
